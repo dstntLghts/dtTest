@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+  <head>
+        <meta charset="utf-8" />
+        <title>{{ title }}</title>
+    </head>
+  <group>
+    <h3>The prime numbers from 1 to {{ number }} using the {{ title }}:</h3>
+    <h3>{{ content }}</h3>
+  </group>
